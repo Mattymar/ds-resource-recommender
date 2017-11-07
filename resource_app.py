@@ -1,8 +1,6 @@
 import flask
 from sklearn.externals import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
-import numpy as np
-import pandas as pd
 import nltk
 import re
 from nltk.stem.snowball import SnowballStemmer
