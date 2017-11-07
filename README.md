@@ -22,3 +22,7 @@ In the main notebook, there is also a nifty bonus section where we make happy li
 ## Some Results
 
 <img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/grid_search_rec.png" width=512>
+
+<img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/cnn_rec.png" width=512>
+
+<img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/robot_cloud_gray.png" width=256>
