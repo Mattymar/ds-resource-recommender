@@ -21,12 +21,18 @@ In the main notebook, there is also a nifty bonus section where we make happy li
 
 ## Some Results
 
+** Random Search for Hyper-Parameter Optimization (paper) **
+
 <img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/grid_search_rec.png" width=512>
 
 -----
 
+** Deep Learning Book Ch. 9 - Convolutional Neural Networks **
+
 <img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/cnn_rec.png" width=512>
 
 -----
+
+** Sample word cloud from "AI" cluster **
 
 <img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/robot_cloud_gray.png" width=256>
