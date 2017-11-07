@@ -21,4 +21,4 @@ In the main notebook, there is also a nifty bonus section where we make happy li
 
 ## Some Results
 
-<img src="https://github.com/Mattymar/ds-resource-recommender/grid_search_rec" width=256>
+<img src="https://github.com/Mattymar/ds-resource-recommender/blob/master/grid_search_rec.png" width=512>
